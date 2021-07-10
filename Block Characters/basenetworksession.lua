@@ -23,7 +23,6 @@ function BaseNetworkSession:check_peer_preferred_character(preferred_character)
 		if table.contains(free_characters, preferred) then
 			return preferred -- One of the peer's preferred characters is allowed, allow them to use their preferred character
 		end
-		log("Peer tried to play with an unavailable character: " .. tostring(preferred))
 	end
 
 	return free_characters[math.random(#free_characters)] -- If peer has no preference/preferred characters are not available to use, assign them a random allowed character
