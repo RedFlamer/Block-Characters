@@ -1,0 +1,163 @@
+{
+	"menu_id" : "Block_Characters_option_menu",
+	"parent_menu_id" : "blt_options",
+	"title" : "Block_Characters_options",
+	"description" : "Block_Characters_options_desc",
+	"back_callback" : "Block_Characters_callback_options_closed",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "russian",
+			"title" : "menu_russian",
+			"callback" : "Block_Characters_check_clbk",
+			"value" : "russian"
+		},
+		{
+			"type" : "toggle",
+			"id" : "german",
+			"title" : "menu_german",
+			"callback" : "Block_Characters_check_clbk",
+			"value" : "german"
+		},
+		{
+			"type" : "toggle",
+			"id" : "spanish",
+			"title" : "menu_spanish",
+			"callback" : "Block_Characters_check_clbk",
+			"value" : "spanish"
+		},
+		{
+			"type" : "toggle",
+			"id" : "american",
+			"title" : "menu_american",
+			"callback" : "Block_Characters_check_clbk",
+			"value" : "american"
+		},
+		{
+			"type" : "toggle",
+			"id" : "jowi",
+			"title" : "menu_jowi",
+			"callback" : "Block_Characters_check_clbk",
+			"value" : "jowi"
+		},
+		{
+			"type" : "toggle",
+			"id" : "old_hoxton",
+			"title" : "menu_old_hoxton",
+			"callback" : "Block_Characters_check_clbk",
+			"value" : "old_hoxton"
+		},
+		{
+			"type" : "toggle",
+			"id" : "female_1",
+			"title" : "menu_female_1",
+			"callback" : "Block_Characters_check_clbk",
+			"value" : "female_1"
+		},
+		{
+			"type" : "toggle",
+			"id" : "dragan",
+			"title" : "menu_dragan",
+			"callback" : "Block_Characters_check_clbk",
+			"value" : "dragan"
+		},
+		{
+			"type" : "toggle",
+			"id" : "jacket",
+			"title" : "menu_jacket",
+			"callback" : "Block_Characters_check_clbk",
+			"value" : "jacket"
+		},
+		{
+			"type" : "toggle",
+			"id" : "bonnie",
+			"title" : "menu_bonnie",
+			"callback" : "Block_Characters_check_clbk",
+			"value" : "bonnie"
+		},
+		{
+			"type" : "toggle",
+			"id" : "sokol",
+			"title" : "menu_sokol",
+			"callback" : "Block_Characters_check_clbk",
+			"value" : "sokol"
+		},
+		{
+			"type" : "toggle",
+			"id" : "dragon",
+			"title" : "menu_dragon",
+			"callback" : "Block_Characters_check_clbk",
+			"value" : "dragon"
+		},
+		{
+			"type" : "toggle",
+			"id" : "bodhi",
+			"title" : "menu_bodhi",
+			"callback" : "Block_Characters_check_clbk",
+			"value" : "bodhi"
+		},
+		{
+			"type" : "toggle",
+			"id" : "jimmy",
+			"title" : "menu_jimmy",
+			"callback" : "Block_Characters_check_clbk",
+			"value" : "jimmy"
+		},
+		{
+			"type" : "toggle",
+			"id" : "sydney",
+			"title" : "menu_sydney",
+			"callback" : "Block_Characters_check_clbk",
+			"value" : "sydney"
+		},
+		{
+			"type" : "toggle",
+			"id" : "wild",
+			"title" : "menu_wild",
+			"callback" : "Block_Characters_check_clbk",
+			"value" : "wild"
+		},
+		{
+			"type" : "toggle",
+			"id" : "chico",
+			"title" : "menu_chico",
+			"callback" : "Block_Characters_check_clbk",
+			"value" : "chico"
+		},
+		{
+			"type" : "toggle",
+			"id" : "max",
+			"title" : "menu_max",
+			"callback" : "Block_Characters_check_clbk",
+			"value" : "max"
+		},
+		{
+			"type" : "toggle",
+			"id" : "joy",
+			"title" : "menu_joy",
+			"callback" : "Block_Characters_check_clbk",
+			"value" : "joy"
+		},
+		{
+			"type" : "toggle",
+			"id" : "myh",
+			"title" : "menu_myh",
+			"callback" : "Block_Characters_check_clbk",
+			"value" : "myh"
+		},
+		{
+			"type" : "toggle",
+			"id" : "ecp_male",
+			"title" : "menu_ecp_male",
+			"callback" : "Block_Characters_check_clbk",
+			"value" : "ecp_male"
+		},
+		{
+			"type" : "toggle",
+			"id" : "ecp_female",
+			"title" : "menu_ecp_female",
+			"callback" : "Block_Characters_check_clbk",
+			"value" : "ecp_female"
+		}
+	]
+}

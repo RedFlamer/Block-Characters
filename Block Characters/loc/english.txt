@@ -1,0 +1,4 @@
+{
+	"Block_Characters_options" : "Block Characters",
+	"Block_Characters_options_desc" : "Block peers from joining with certain characters \nIt is recommended to leave at least four characters available"
+}
